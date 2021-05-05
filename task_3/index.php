@@ -5,6 +5,7 @@ include "../task_1/randArray.php";
 include "../task_1/bubble.php";
 include "binarySearch.php";
 
+
 $arraySize = 100;
 
 //Формируем массив заданного размера

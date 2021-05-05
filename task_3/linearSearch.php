@@ -1,5 +1,6 @@
 <?php
 
+
 function linearSearch ($myArray, $num): ?int
 {
     $count = count($myArray);

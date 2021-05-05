@@ -1,6 +1,7 @@
 <?php
 function binarySearch ($myArray, $num) {
 
+
 //определяем границы массива
     $left = 0;
     $right = count($myArray) - 1;

@@ -1,6 +1,5 @@
 <?php
 
-
 function bubbleSort($array)
 {
 

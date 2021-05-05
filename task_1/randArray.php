@@ -1,5 +1,6 @@
 <?php
 
+
 const COUNT = 10000;
 const MIN_RAND = 1;
 const MAX_RAND = 300;
